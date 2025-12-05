@@ -5,7 +5,8 @@ Advent of Code for 2025
 | 1 | ✓ | ✓ |
 | 2 | ✓ |   |
 | 3 | ✓  |   |
-| 4 |    |   |
+| 4 |  ✓  | ✓  |
+| 5 |    |   |
 
 Placeholders
 
